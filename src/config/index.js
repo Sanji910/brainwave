@@ -1,3 +1,3 @@
 export const links = {
-  sourceCode: "https://github.com/Sanji910/brainwave",
+  sourceCode: "https://github.com/Jonny0301/BrainWave_Landing",
 };
