@@ -76,9 +76,9 @@ const Header = () => {
           <HambugerMenu />
         </nav>
 
-        <Button className="hidden lg:flex" href={links.sourceCode} external>
+        {/* <Button className="hidden lg:flex" href={links.sourceCode} external>
           Source Code
-        </Button>
+        </Button> */}
 
         <Button
           onClick={toggleNavigation}
